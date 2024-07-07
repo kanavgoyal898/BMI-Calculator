@@ -7,7 +7,7 @@ This BMI (Body Mass Index) Calculator is a simple and intuitive iOS application 
 ### Preview
 
 <div style="text-align: center;">
-  <img src="./demo.png" alt="Preview" style="width: 50%;">
+  <img src="./demo.png" alt="Preview" style="width: 100%;">
 </div>
 
 ## Features
